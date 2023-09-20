@@ -1,0 +1,99 @@
+
+.container {
+	display:flex;
+	flex-direction: column
+}
+h1 {
+
+	padding-left:32%;
+	padding-right:20%
+}
+
+h2 {
+	padding-left:30%;
+	padding-right:20%
+}
+#profx {
+	margin-left:40%;
+	margin-right:20%;
+	margin-bottom:0;
+	height:300px;
+	width:250px;
+}
+li {
+border-style:solid;
+border-width:2px;
+border-color:black;
+border-radius:5px;
+margin:10px;
+width:30px;
+height:30px;
+padding:10px;
+display:inline;
+color:white;
+}
+
+ul {
+list-style:none;
+}
+
+p {
+	margin-left:3%;
+}
+
+#userprompt{
+	padding-left:1%;
+	padding-right:1%;
+	margin-left:2%;
+	margin-right:2%;
+}
+
+#red {
+background-color:red;
+margin-left:10%;
+}
+
+#orange {
+background-color:orange;
+}
+
+#yellow {
+background-color:yellow;
+}
+
+#green {
+background-color:green;
+}
+
+#blue {
+background-color:blue;
+}
+
+#indigo {
+background-color:indigo;
+}
+
+#violet {
+background-color:violet;
+}
+
+#gameboard {
+margin-top:10px;
+width:800px;
+height:250px;
+border-style:solid;
+border-width:2px;
+border-radius:10px;
+margin-left:20%;
+margin-right:30%;
+}
+
+#userprompt {
+background-color:white;
+color:black;
+border-style:solid;
+border-width:2px;
+border-radius:10px;
+padding-top:3px;
+padding-bottom:3px;
+}
